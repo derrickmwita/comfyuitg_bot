@@ -4,7 +4,7 @@
 
 Functionalities include text2image, image2image, and LoRA support. IPAdapter enables face replacement and stylization.
 
-Test bot: @stablecats_bot
+Test bot: @Cryanalisis_bot
 
 ## Installation and Setup
 
